@@ -1,0 +1,88 @@
+/*  HTML and CSS to clone Google page project */
+
+/* Menu links in header -- to be completed */
+
+/* Google logo */
+
+img {
+  width: 272px;           
+  /* height calculated by default to prevent distorted image */
+  margin-top: 192px;
+  horizontal-align: center;
+}
+
+/* Search bar */
+
+input {
+  width: 564px;
+  height: 32px;
+  border: 6px solid #949599;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
+
+/* microphone image within Search Bar at extreme right. Call image name "micrphone.jpg". Fopr speech input. How put in? (If speech input part is too complicated, then how put in image only?) This question applies to both HTML and CSS. */
+
+/* Google search ... I'm Feeling Lucky */
+
+a {
+  display:inline-block;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0, 6, 386, 180;
+  border: 6px solid #949599;
+}
+
+.google_search {
+  margin: 0, 6, 386, 180;
+  float: left;
+  width: 40%;
+}
+
+.feeling_lucky {
+  margin: 0, 180, 386, 6;
+  float: right;
+  width: 60%;
+}
+
+/* Footer bar */
+
+footer {
+  width: 100%;
+  height: 32px;
+  border: 6 px solid #949599;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 20px
+  background: #ececec;
+}
+
+a {
+  clear:both;
+  float:left;
+}
+
+.advertising {
+  width: 96px;
+  margin: 0px 24px;
+}
+
+.business {
+width: 96px;
+  margin: 0px 24px;  
+}
+
+.about {
+  width: 96px;
+  margin: 0px 24px;
+}
+
+.privacy_and_terms {
+  width: 192px;
+  margin: 384px 24px;
+}
+
+.settings {
+  width: 96px;
+  margin: 0px 0px;
+}
+
+
