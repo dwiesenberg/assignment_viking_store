@@ -27,49 +27,38 @@ body {
 .project-name {
   /* color: #D3D3D3; */
   /*-- gray */
-  color: #D3D3D3;  /*-- gray */
+  color: #D3D3D3;  /* gray */
   float: left;
   display: inline-block;
   margin-left: 150px;
   margin-right: 300px;
   line-height: 20px;
   font-size: 20px;
+  }
 
 .invitation {
   display: inline-block;
   float: left;
-  height: 970;
+  height: 400px;
   width: 60%;
   border: 6px solid black;
+  text-align: center;
   margin: auto; }
 
 .sign-up {
   display: inline-block;
   float: left;
-  height: 970;
+  height: 400px;
   width: 40%;
   border: 6px solid black;
+  text-align: center;
   margin: auto; }
 
 h1 {
-  font-size: 75px;
+  font-size: 40px;
   line-height: 69px;
   padding: 10px;
   color: black; }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
